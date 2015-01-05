@@ -1,4 +1,4 @@
 Github_HowTo
 ============
 
-How the Gerstein lab can most effectively use Github
+Below I have proposed a way for us as a lab to more efficiently use Github. My hope is that many of you will give it a try and give me your feedback.
