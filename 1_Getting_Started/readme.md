@@ -17,5 +17,6 @@ To get started follow the below instructions.
 **Explanation:** There are two types of accounts personal and organizational. If you completed step 2 correctly you will have a maximum of 5 free private repos. The Gerstein_Lab organization has a maximum of 10 private repositories (which we pay for).
 
 
+4. finally you will need some way to upload your files to github. I perfer to do this using the Github deskop client https://mac.github.com/. download and install this program. the first time you start the program you will be prompted to login. once you have done this you can click on the + sight in the upper left hand corner to start a new repo. if you want to make changes to an existing repo go to the github page of that repo and click on "clone in desktop". 
 
 
